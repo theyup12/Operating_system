@@ -1,3 +1,3 @@
 # CPSC-351 
-# jiffies_project
-# Andy Cao
+### jiffies_project
+#### Author Name:Andy Cao
