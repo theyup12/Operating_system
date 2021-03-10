@@ -1,1 +1,3 @@
-# Jiffes_project
+# CPSC-351 
+# jiffies_project
+# Andy Cao
